@@ -14,4 +14,4 @@ Conducting descriptive analysis to uncover trends
 Visualizing insights through charts and graphs
 
 # Tools
-Excel and Presentation
+Excel 
